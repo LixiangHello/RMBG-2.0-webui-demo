@@ -18,11 +18,10 @@ pip install -r requirements.txt
 streamlit run app.py --server.runOnSave true --server.port 6006 --runner.magicEnabled false --client.toolbarMode viewer
 ```
 
-## demo
+## demo image
 
-<picture>
-  <img alt="demo image" src="/assets/demo1.png" width="50%" height="50%">
-  <img alt="demo image" src="/assets/demo2.png" width="50%" height="50%">
-  <img alt="demo image" src="/assets/demo3.png" width="50%" height="50%">
-  <img alt="demo image" src="/assets/demo4.png" width="50%" height="50%">
-</picture>
+<img alt="demo image" src="assets/demo1.png" width="50%" height="50%">
+<img alt="demo image" src="assets/demo2.png" width="50%" height="50%">
+<img alt="demo image" src="assets/demo3.png" width="50%" height="50%">
+<img alt="demo image" src="assets/demo4.png" width="50%" height="50%">
+
