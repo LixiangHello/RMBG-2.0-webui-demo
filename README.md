@@ -1,4 +1,7 @@
 <div align="center">
+<h1>
+Removing Background of image is so EASY.
+<h1>
 
 <h3>
 
