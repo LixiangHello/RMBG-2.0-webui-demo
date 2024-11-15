@@ -2,7 +2,7 @@
 
 <h3>
 
-[Homepage](https://github.com/LixiangHello/RemoveBackground) | [modelscope space]([https://docs.tinygrad.org/](https://www.modelscope.cn/studios/Lixiang/RMBG-2.0/summary?header=default&fullWidth=false)) | [streamlit](https://streamlit.io/) | [RMBG-2.0](https://github.com/Efrat-Taig/RMBG-2.0)
+[Homepage](https://github.com/LixiangHello/RemoveBackground) | [modelscope space](https://www.modelscope.cn/studios/Lixiang/RMBG-2.0/summary?header=default&fullWidth=false) | [streamlit](https://streamlit.io/) | [RMBG-2.0](https://github.com/Efrat-Taig/RMBG-2.0)
 
 </h3>
 
