@@ -23,8 +23,8 @@ streamlit run app.py --server.runOnSave true --server.port 6006 --runner.magicEn
 
 ## demo image
 
-<img alt="demo image" src="assets/demo1.png" width="50%" height="50%">
-<img alt="demo image" src="assets/demo2.png" width="50%" height="50%">
-<img alt="demo image" src="assets/demo3.png" width="50%" height="50%">
-<img alt="demo image" src="assets/demo4.png" width="50%" height="50%">
+<img alt="demo image" src="assets/demo1.png">
+<img alt="demo image" src="assets/demo2.png">
+<img alt="demo image" src="assets/demo3.png">
+<img alt="demo image" src="assets/demo4.png">
 
