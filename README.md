@@ -1,9 +1,7 @@
 <div align="center">
-<h1>
-Removing Background of image is so EASY.
-<h1>
 
 <div>
+<h1>Removing Background of image is so EASY.<h1>
 
 [Homepage](https://github.com/LixiangHello/RemoveBackground) | [modelscope space](https://www.modelscope.cn/studios/Lixiang/RMBG-2.0/summary?header=default&fullWidth=false) | [streamlit](https://streamlit.io/) | [RMBG-2.0](https://github.com/Efrat-Taig/RMBG-2.0)
 
