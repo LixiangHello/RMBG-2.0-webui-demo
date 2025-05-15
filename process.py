@@ -36,7 +36,7 @@ def process(image: Image.Image) -> Image.Image:
     device = 'cpu' if torch.cuda.is_available() else 'cuda'
     precision = 0
     model, transform = load_model("RMBG-2.0", precision=precision, device=device)
-    image = image.copy()
+    image = image.convert("RGB").copy()
     input_images = transform(image).unsqueeze(0).to(device)
     with torch.no_grad():
         preds = model(input_images)[-1].sigmoid().cpu()
